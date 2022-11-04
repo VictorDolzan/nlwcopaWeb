@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+body {
+    -webkit-font-smoothing: antialiased;
+}
+
+#h1Titulo{
+    color: white;
+}
+
+
