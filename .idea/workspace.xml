@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcc726ab-801f-4e6e-872b-c5bb47c70cc3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lib/axios.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/victor-dolsan/Documentos/Cursos/nlwcopa/server",
+    "last_opened_file_path": "/home/victor-dolsan/Documentos/Cursos/nlwcopa/web",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
@@ -80,7 +76,8 @@
       <workItem from="1667438167449" duration="1887000" />
       <workItem from="1667512438380" duration="6846000" />
       <workItem from="1667561867107" duration="159000" />
-      <workItem from="1667606882355" duration="4293000" />
+      <workItem from="1667606882355" duration="4731000" />
+      <workItem from="1667692223463" duration="67000" />
     </task>
     <servers />
   </component>
